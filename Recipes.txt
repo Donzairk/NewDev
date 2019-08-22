@@ -1,7 +1,9 @@
-####This is a github self tutorial by faking recipe text
+#####This is a github self tutorial by faking recipe text
 
 Recipe of Rice Curry
 
 I dont know how to make one, so lets order.
 
 Bezinga
+
+New Addition to the text file
